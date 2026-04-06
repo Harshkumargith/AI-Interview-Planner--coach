@@ -1,0 +1,49 @@
+AI Interview Coach & Planner
+
+An intelligent AI-powered interview preparation platform that analyzes your resume (PDF) + job description and generates a personalized interview preparation report using Google Gemini AI.
+
+ Features
+ Upload Resume (PDF)
+ Provide Job Description
+AI-powered analysis using Gemini API
+ Generates:
+Skill Gap Analysis
+Preparation Plan
+Interview Readiness Report
+Behavioral Questions
+Secure Authentication using JWT
+Personalized, structured output for interview success
+AI Integration (Google Gemini)
+
+This project uses Google Gemini API to intelligently analyze user input.
+
+ What AI does:
+Extracts skills from resume
+Matches with job description
+Identifies missing skills
+Generates preparation roadmap
+Creates behavioral interview questions
+Provides interview readiness score
+⚙️ AI Workflow
+ Resume + Job Description received
+ Text extraction & preprocessing
+ Prompt sent to Gemini API
+ AI generates structured response
+ Data mapped into schemas
+ Final report returned to user
+
+
+Use Cases
+Placement preparation
+Job switch planning
+Resume optimization
+Targeted interview practice
+
+
+
+
+//
+By Harsh kumar Mandal
+@fullstackdev
+@devops @aws
+@ai_integration
